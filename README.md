@@ -4,6 +4,8 @@
 
 I'm French and I'm currently an Enterprise Architect at Adeo Services in aprenticeship for my last year of Master in Business Informatics !
 
+I'm quite curious and eager to learn, always.
+
 I'm interested in many different things, such as programming (of course) but also discovering and learning different cultures and languages (Spanish and Korean for example) ! 
 
 I read a lot too (French Classics mostly, such as Les Rougon-Macquart, by Emile Zola, ever heard about ?).
