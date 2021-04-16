@@ -21,8 +21,9 @@ I read a lot too (French Classics mostly, such as Les Rougon-Macquart, by Emile 
 
 ### 🌱 What am I currently learning ?
 
-- Redux linked with React
-- UX/UI design
+- UX/UI Design
+- Blender
+- Google Apps Script
 
 ### ✉️ How can you reach me ?
 
