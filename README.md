@@ -2,7 +2,7 @@
 
 ### 👋 Hello, I am Ambroise, aka *Ambroglio*!
 
-I am French and I am currently a Junior Full Stack Developer for Attraqt, in Paris.
+I am French and I am a Junior Full Stack Developer for Attraqt, in Paris.
 
 I'm quite curious and eager to learn, always.
 
