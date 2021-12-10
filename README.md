@@ -1,6 +1,6 @@
 # Ambroise Mullie
 
-### 👋 Hello, I'm Ambroise, aka *Ambroglio*!
+### 👋 Hello, I am Ambroise, aka *Ambroglio*!
 
 I am French and I am currently a Junior Full Stack Developer for Attraqt, in Paris.
 
