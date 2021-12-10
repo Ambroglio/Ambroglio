@@ -27,5 +27,5 @@ I read a lot too (French Classics mostly, such as Les Rougon-Macquart, by Emile 
 
 ### ✉️ How can you reach me ?
 
-- Contact me via [LinkedIn](https://www.linkedin.com/in/ambroisemullie/)
+- Contact me via  [LinkedIn](https://www.linkedin.com/in/ambroisemullie/)
 - Send an email to ambroisemullie@gmail.com
