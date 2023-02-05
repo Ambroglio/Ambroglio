@@ -2,7 +2,7 @@
 
 ### 👋 Hello, I am Ambroise, aka *Ambroglio*!
 
-I am French and I am a Junior Full Stack Developer for Attraqt, in Paris.
+I am French and I am a Developer for Desjardins via Acensia Canada. I currently live in Montréal, in Québec, Canada.
 
 I'm quite curious and eager to learn, always.
 
@@ -18,6 +18,7 @@ I read a lot too (French Classics mostly, such as Les Rougon-Macquart, by Emile 
 - JavaScript, in order to make scripts very easily
 - React, because it's quite logical and works just like HTML
 - Material UI, better than Bootstrap
+- And many others that I certainly forgot....
 
 ### 🌱 What am I currently learning ?
 
