@@ -18,13 +18,12 @@ I read a lot too (French Classics mostly, such as Les Rougon-Macquart, by Emile 
 - JavaScript, in order to make scripts very easily
 - React, because it's quite logical and works just like HTML
 - Material UI, better than Bootstrap
-- And many others that I certainly forgot....
 
-### 🌱 What am I currently learning ?
+### 🌱 What am I currently learning or interested about ?
 
-- UX/UI Design
+- Rust
 - Blender
-- Google Apps Script
+- OpenAI APIs
 
 ### ✉️ How can you reach me ?
 
