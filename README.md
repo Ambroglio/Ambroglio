@@ -16,7 +16,7 @@ I read a lot too (French Classics mostly, such as Les Rougon-Macquart, by Emile 
 - Kotlin, a Java better than Java 💯
 - Python, because I learned everything thanks to this language! 🚀
 - JavaScript, in order to make scripts very easily
-- React, because it's quite logical and works just like HTML
+- React, because it's quite fancy, logical and works just like HTML
 - Material UI, better than Bootstrap
 
 ### 🌱 What am I currently learning or interested about ?
