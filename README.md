@@ -1,6 +1,6 @@
 # Ambroise Mullie
 
-Full Stack Developer @ Desjardins, Canada
+Full Stack Developer, based in France
 
 ### ✉️ How can you reach me ?
 
